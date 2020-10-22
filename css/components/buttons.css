@@ -1,0 +1,13 @@
+.btn-banner {
+  margin-top: 48px;
+  background-color: #f4b74e;
+  border-radius: 30px;
+  padding: 8px 16px;
+  color: white;
+  box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+
+.btn-banner:hover {
+  background-color: #d69e44;
+  transition: 0.4s;
+}

@@ -1,0 +1,23 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 360px;
+  width: 100%;
+  background-size: cover;
+  color: white;
+}
+
+.banner-info {
+  margin: 0 auto;
+}
+
+.banner h1 {
+  margin: 0;
+  text-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+
+.banner p {
+  margin-bottom: 16px;
+  text-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
